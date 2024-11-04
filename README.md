@@ -1,7 +1,3 @@
-Here's a sample README for your project that showcases its features and value:
-
----
-
 # Photo Stock Generator & Chatbot
 
 ### Overview
@@ -66,7 +62,3 @@ This project showcases strong skills in **AI integration**, **backend developmen
 - Add fine-tuning capabilities for specific industries.
 - Integrate additional languages and image styles.
 - Implement user authentication for personalized experiences and saved histories.
-
---- 
-
-This README presents your project as a polished, professional application with real-world potential, making it highly appealing on your resume! Let me know if you'd like more adjustments or specific details added.
